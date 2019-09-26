@@ -61,4 +61,4 @@ typings/
 .next
 
 # connection string
-.connectionString.js
+connectionString.js
