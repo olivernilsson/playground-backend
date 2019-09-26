@@ -60,5 +60,6 @@ typings/
 # next.js build output
 .next
 
-# connection string
+# connection string & settings
 connectionString.js
+settings.json
